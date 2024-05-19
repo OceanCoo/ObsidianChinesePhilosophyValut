@@ -2,7 +2,7 @@
   "choices": [
     {
       "id": "e28acae7-e94e-4fff-bb19-2f16ca0b94de",
-      "name": "传习录",
+      "name": "大学",
       "type": "Template",
       "command": false,
       "templatePath": "Templates/传习录.md",
@@ -13,7 +13,7 @@
       "folder": {
         "enabled": true,
         "folders": [
-          "心学"
+          "大学"
         ],
         "chooseWhenCreatingNote": false,
         "createInSameFolderAsActiveFile": false,
