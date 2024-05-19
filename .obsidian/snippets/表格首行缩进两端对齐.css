@@ -1,0 +1,6 @@
+/* Dataview 表格中的首行缩进和两端对齐 */
+.table-view-table > tbody > tr > td {
+  padding: 8px;
+  text-align: justify;
+  
+}

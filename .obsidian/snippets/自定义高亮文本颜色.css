@@ -1,0 +1,19 @@
+/**自定义高亮背景色**/
+
+:is(.markdown-preview-view,.markdown-rendered) mark {
+  color: black;
+  background-image:linear-gradient(to right, #ffafbd,#ffc3a0);
+  border-radius: 5px;
+  padding: 1px 2px;
+  margin: 0px 2px;
+  -webkit-box-decoration-break: clone;
+}
+.cm-s-obsidian span.cm-highlight, .cm-highlight.cm-quote {
+
+  color: black;
+  background-image:linear-gradient(to right, #ffafbd,#ffc3a0);
+  border-radius: 5px;
+  padding: 1px 2px;
+  margin: 0px 2px;
+  -webkit-box-decoration-break: clone;
+}

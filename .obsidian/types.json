@@ -1,0 +1,11 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "Score": "number",
+    "date created": "datetime",
+    "date modified": "datetime",
+    "douBanRatings": "number"
+  }
+}

@@ -1,0 +1,20 @@
+/* 调整表格的列宽 */
+table.dataview {
+  table-layout: fixed;
+  width: 100%;
+}
+
+table.dataview th:nth-child(1) {
+  width: 15%; /* 调整第一列（Title）的宽度 */
+}
+
+table.dataview th:nth-child(2) {
+  width: 85%; /* 调整第二列（Content）的宽度 */
+}
+
+/* 允许文字换行 */
+table.dataview th,
+table.dataview td {
+  white-space: normal;
+}
+

@@ -1,0 +1,149 @@
+{
+  "version": 2,
+  "projects": [
+    {
+      "fieldConfig": {},
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": true,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "Library",
+          "recursive": true
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {
+            "fieldConfig": {
+              "cover": {
+                "hide": true
+              },
+              "path": {
+                "hide": true
+              },
+              "date created": {
+                "hide": true
+              },
+              "date modified": {
+                "hide": true
+              },
+              "endRead": {
+                "hide": true
+              },
+              "id": {
+                "hide": true
+              },
+              "isbn": {
+                "hide": true
+              },
+              "author": {
+                "width": 142,
+                "hide": true
+              },
+              "publisher": {
+                "hide": true
+              },
+              "douBanRatings": {
+                "width": 117
+              },
+              "goodReadsRatings": {
+                "width": 148
+              },
+              "progress": {
+                "width": 129
+              },
+              "source": {
+                "hide": true
+              },
+              "title": {
+                "hide": true
+              },
+              "totalPage": {
+                "width": 121
+              },
+              "tags": {
+                "width": 161
+              },
+              "startRead": {
+                "hide": true
+              },
+              "status": {
+                "width": 130
+              }
+            },
+            "orderFields": [
+              "name",
+              "status",
+              "progress",
+              "totalPage",
+              "douBanRatings",
+              "goodReadsRatings",
+              "tags",
+              "publishDate",
+              "ratings"
+            ]
+          },
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": [
+              {
+                "field": "status",
+                "order": "desc",
+                "enabled": true
+              }
+            ]
+          },
+          "id": "d0f567a6-6e11-447c-aee0-83f7d811cb0f",
+          "name": "表格",
+          "type": "table"
+        },
+        {
+          "config": {
+            "coverField": "cover",
+            "fitStyle": "contain",
+            "cardWidth": 150,
+            "includeFields": []
+          },
+          "filter": {
+            "conditions": [
+              {
+                "field": "title",
+                "operator": "is-not-empty",
+                "enabled": true
+              }
+            ]
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "b1e3423e-acd4-4ae3-a81c-d0bb38fd5174",
+          "name": "画册",
+          "type": "gallery"
+        }
+      ],
+      "id": "61e3a09f-a177-4fab-b465-a352aea34c7b",
+      "name": "Library"
+    }
+  ],
+  "archives": [],
+  "preferences": {
+    "projectSizeLimit": 1000,
+    "frontmatter": {
+      "quoteStrings": "PLAIN"
+    },
+    "commands": [],
+    "linkBehavior": "open-note"
+  }
+}

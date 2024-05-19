@@ -1,0 +1,9 @@
+/*图片居中*/
+.image-embed{
+	 text-align:center;
+}
+span.image-embed{
+	 width:var(--file-line-width);
+	 display:inline-block;
+	 text-align:center;
+}

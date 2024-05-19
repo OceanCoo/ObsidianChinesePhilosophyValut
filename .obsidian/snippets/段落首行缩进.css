@@ -1,0 +1,4 @@
+/* 选择所有正文文本，添加首行缩进 */
+.markdown-preview-view p {
+    text-indent: 2em; /* 2 个字符的宽度 */
+}

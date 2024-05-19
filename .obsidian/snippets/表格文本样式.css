@@ -1,0 +1,7 @@
+/* 设置表格中Content列的字体样式 */
+table.dataview td:nth-child(2) {
+  font-family: inherit; /* 继承正文的字体样式 */
+  font-size: inherit;   /* 继承正文的字体大小 */
+  font-weight: inherit; /* 继承正文的字体粗细 */
+  /* 在这里可以添加其他需要继承的样式，比如颜色等 */
+}

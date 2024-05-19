@@ -1,0 +1,12 @@
+/* 选择所有正文文本，对齐方式设为两端对齐 */
+.markdown-preview-view p {
+    text-align: justify;
+}
+
+/* 避免在两端对齐时出现不美观的间隙 */
+.markdown-preview-view::after {
+    content: "";
+    display: inline-block;
+    width: 100%;
+}
+

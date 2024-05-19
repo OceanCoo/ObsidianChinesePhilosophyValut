@@ -1,0 +1,19 @@
+{
+  "accentColor": "#107dfc",
+  "baseFontSize": 17,
+  "cssTheme": "Minimal",
+  "interfaceFontFamily": "微软雅黑",
+  "textFontFamily": "Times New Roman,仓耳今楷03,霞鹜文楷",
+  "monospaceFontFamily": "",
+  "baseFontSizeAction": false,
+  "translucency": false,
+  "theme": "moonstone",
+  "enabledCssSnippets": [
+    "dataview列宽",
+    "latex",
+    "下划线格式",
+    "文本两端对齐",
+    "图片居中",
+    "段落首行缩进"
+  ]
+}
