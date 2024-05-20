@@ -2,48 +2,18 @@
   "choices": [
     {
       "id": "e28acae7-e94e-4fff-bb19-2f16ca0b94de",
-      "name": "大学",
+      "name": "论语",
       "type": "Template",
       "command": false,
       "templatePath": "Templates/传习录.md",
       "fileNameFormat": {
         "enabled": false,
-        "format": ""
+        "format": "学而篇"
       },
       "folder": {
         "enabled": true,
         "folders": [
-          "大学"
-        ],
-        "chooseWhenCreatingNote": false,
-        "createInSameFolderAsActiveFile": false,
-        "chooseFromSubfolders": false
-      },
-      "appendLink": false,
-      "openFileInNewTab": {
-        "enabled": false,
-        "direction": "vertical",
-        "focus": true
-      },
-      "openFile": true,
-      "openFileInMode": "source",
-      "fileExistsMode": "Increment the file name",
-      "setFileExistsBehavior": false
-    },
-    {
-      "id": "8cc01085-9f51-4c5a-8116-35f61dbe5cd7",
-      "name": "中庸",
-      "type": "Template",
-      "command": false,
-      "templatePath": "Templates/中庸.md",
-      "fileNameFormat": {
-        "enabled": false,
-        "format": ""
-      },
-      "folder": {
-        "enabled": true,
-        "folders": [
-          "中庸"
+          "《论语》"
         ],
         "chooseWhenCreatingNote": false,
         "createInSameFolderAsActiveFile": false,

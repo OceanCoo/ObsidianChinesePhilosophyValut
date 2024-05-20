@@ -8,19 +8,98 @@
         "type": "tabs",
         "children": [
           {
-            "id": "327388fb96dd0c98",
+            "id": "9eea62c10f9c6fc9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "大学/《大学·经文》.md",
+                "file": "《论语》/宪问篇第十四.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bcd0cb2e72a2d5a0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "《论语》/卫灵公篇第十五.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c7b29fabc8141a07",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "《论语》/季氏篇第十六.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cb6971abdfcef237",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "《论语》/阳货篇第十七.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e7f4003afdf94b9f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "《论语》/微子篇第十八.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3a71b58733159703",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "《论语》/子张篇第十九.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "94e3c18894aa86d3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "《论语》/尧曰篇第二十.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -87,6 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "《论语》/尧曰篇第二十.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,6 +194,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "《论语》/尧曰篇第二十.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "大学/第十章 释“治国、平天下”.md"
+                "file": "《论语》/尧曰篇第二十.md"
               }
             }
           }
@@ -161,35 +242,39 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "1ba2d4acf1634ae3",
+  "active": "94e3c18894aa86d3",
   "lastOpenFiles": [
-    "大学/《大学·传文·第四章 释“本末”》.md",
-    "大学/《大学·传文·第十章 释“治国、平天下”》.md",
-    "大学/《大学·传文·第六章 释“诚意”》.md",
-    "大学/《大学·传文·第八章 释“修身、齐家”》.md",
-    "大学/《大学·传文·第五章 释“格物、致知”》.md",
-    "大学/《大学·传文·第二章 释“新民”》.md",
-    "大学/《大学·传文·第九章 释“齐家、治国” 》.md",
-    "大学/《大学·传文·第三章 释“止于至善”》.md",
-    "大学/《大学·传文·第七章 释“正心、修身”》.md",
-    "大学/《大学·传文·第一章 释“明明德”》.md",
-    "大学/第九章 释“齐家、治国” .md",
-    "大学/第十章 释“治国、平天下”.md",
-    "大学/第八章 释“修身、齐家”.md",
-    "大学/第七章 释“正心、修身”.md",
-    "大学/第六章 释“诚意”.md",
-    "大学/第五章 释“格物、致知”.md",
-    "大学/第四章 释“本末”.md",
-    "大学/第三章 释“止于至善”.md",
-    "大学/第二章 释“新民”.md",
-    "大学/第一章 释“明明德”.md",
-    "大学/《大学·经文》.md",
+    "《论语》/子张篇第十九.md",
+    "《论语》/尧曰篇第二十.md",
+    "《论语》/微子篇第十八.md",
+    "《论语》/阳货篇第十七.md",
+    "《论语》/季氏篇第十六.md",
+    "《论语》/卫灵公篇第十五.md",
+    "《论语》/宪问篇第十四.md",
+    "《论语》/子路篇第十三.md",
+    "《论语》/颜渊篇第十二.md",
+    "《论语》/先进篇第十一.md",
+    "《论语》/乡党篇第十.md",
+    "《论语》/八佾篇第三.md",
+    "《论语》/子罕篇第九.md",
+    "《论语》/学而篇第一.md",
+    "《论语》/泰伯篇第八.md",
+    "《论语》/述而篇第七.md",
+    "《论语》/雍也篇第六1.md",
+    "《论语》/雍也篇第六.md",
+    "《论语》/公冶长篇第五.md",
+    "《论语》/里仁篇第四.md",
+    "《论语》/Pasted image 20240520133054.png",
+    "《论语》/为政篇第二.md",
+    "README.md",
     "《传习录》/《传习录上》/徐爱录/《传习录上·徐爱录一》.md",
-    "《传习录》/《传习录上》/徐爱录/《传习录上·徐爱录跋》.md",
-    "《传习录》/《传习录上》/陆澄录/《传习录上·陆澄录 凡七十三则》.md",
+    "《论语》/学而篇第一",
+    "《论语》",
+    "大学/第十章 释“治国、平天下”.md",
+    "《大学》/《大学·经文》.md",
+    "《大学》/《大学·传文·第四章 释“本末”》.md",
+    "《大学》",
     "中国哲学图.png",
-    "未命名 1.md",
-    "四书.md",
     "《传习录》/《传习录下》",
     "《传习录》/《传习录中》",
     "《传习录》/《传习录上》",
@@ -197,9 +282,6 @@
     "《传习录》/《传习录下》/黄以方录",
     "《传习录》/《传习录下》/钱德洪录",
     "《传习录》/《传习录下》/黄省曾录",
-    "《传习录》/《传习录下》/黄修易录",
-    "《传习录》/《传习录下》/黄直录",
-    "《传习录》/《传习录下》/陈九川录",
     "中国哲学图1.png",
     "Library/睡眠革命/Sleep.png",
     "Library/Procrastination/Procrastination 1.png",
@@ -207,7 +289,6 @@
     "Library/Python网络数据采集/Python网络数据采集.png",
     "Library/1.inbox/Python网络爬虫开发从入门到精通.png",
     "Library/Fundamentals of Computer Graphics Fourth Edition/Fundamentals of Computer Graphics Fourth Edition.png",
-    "Library/How to Take Smart Notes/How to Take Smart Notes.png",
-    "Library/The Paradox of Choice/The Paradox of Choice.png"
+    "Library/How to Take Smart Notes/How to Take Smart Notes.png"
   ]
 }
