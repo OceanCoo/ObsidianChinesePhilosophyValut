@@ -8,12 +8,12 @@
       "templatePath": "Templates/传习录.md",
       "fileNameFormat": {
         "enabled": false,
-        "format": "学而篇"
+        "format": ""
       },
       "folder": {
         "enabled": true,
         "folders": [
-          "《论语》"
+          "《诗经》"
         ],
         "chooseWhenCreatingNote": false,
         "createInSameFolderAsActiveFile": false,

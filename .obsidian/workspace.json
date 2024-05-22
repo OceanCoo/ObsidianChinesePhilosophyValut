@@ -8,98 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9eea62c10f9c6fc9",
+            "id": "305176b60aebbae8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "《论语》/宪问篇第十四.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bcd0cb2e72a2d5a0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "《论语》/卫灵公篇第十五.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c7b29fabc8141a07",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "《论语》/季氏篇第十六.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cb6971abdfcef237",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "《论语》/阳货篇第十七.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e7f4003afdf94b9f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "《论语》/微子篇第十八.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3a71b58733159703",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "《论语》/子张篇第十九.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "94e3c18894aa86d3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "《论语》/尧曰篇第二十.md",
+                "file": "《诗经》/鄘风/载驰.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -166,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "《论语》/尧曰篇第二十.md",
+                "file": "《诗经》/鄘风/载驰.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "《论语》/尧曰篇第二十.md",
+                "file": "《诗经》/鄘风/载驰.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "《论语》/尧曰篇第二十.md"
+                "file": "《诗经》/鄘风/载驰.md"
               }
             }
           }
@@ -242,46 +163,46 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "94e3c18894aa86d3",
+  "active": "1ba2d4acf1634ae3",
   "lastOpenFiles": [
-    "《论语》/子张篇第十九.md",
-    "《论语》/尧曰篇第二十.md",
-    "《论语》/微子篇第十八.md",
-    "《论语》/阳货篇第十七.md",
-    "《论语》/季氏篇第十六.md",
-    "《论语》/卫灵公篇第十五.md",
-    "《论语》/宪问篇第十四.md",
-    "《论语》/子路篇第十三.md",
-    "《论语》/颜渊篇第十二.md",
-    "《论语》/先进篇第十一.md",
-    "《论语》/乡党篇第十.md",
-    "《论语》/八佾篇第三.md",
-    "《论语》/子罕篇第九.md",
-    "《论语》/学而篇第一.md",
-    "《论语》/泰伯篇第八.md",
-    "《论语》/述而篇第七.md",
-    "《论语》/雍也篇第六1.md",
-    "《论语》/雍也篇第六.md",
-    "《论语》/公冶长篇第五.md",
-    "《论语》/里仁篇第四.md",
+    "《诗经》/鄘风/干旄.md",
+    "《诗经》/鄘风/相鼠.md",
+    "《诗经》/鄘风/蝃蝀.md",
+    "《诗经》/鄘风/定之方中.md",
+    "《诗经》/鄘风/鹑之奔奔.md",
+    "《诗经》/鄘风/桑中.md",
+    "《诗经》/鄘风/君子偕老.md",
+    "《诗经》/鄘风/墙有茨.md",
+    "《诗经》/鄘风/柏舟.md",
+    "《诗经》/鄘风/鄘风.md",
+    "《诗经》/邶风/二子乘舟.md",
+    "《诗经》/邶风/燕燕.md",
+    "《诗经》/邶风/绿衣.md",
+    "《诗经》/邶风/柏舟.md",
+    "《诗经》/邶风/北风.md",
+    "《诗经》/邶风/旄丘.md",
+    "《诗经》/鄘风/载驰.md",
+    "《诗经》/鄘风",
+    "《诗经》/邶风/静女.md",
+    "《诗经》/邶风/新台.md",
+    "《诗经》/邶风/北门.md",
+    "《诗经》/邶风/泉水.md",
+    "《诗经》/邶风/简兮.md",
+    "《诗经》/邶风/式微.md",
+    "《诗经》/邶风/谷风.md",
+    "《诗经》/邶风/匏有苦叶.md",
+    "《诗经》/邶风/雄雉.md",
+    "《诗经》/邶风",
+    "《诗经》/召南",
+    "《诗经》/周南",
+    "《诗经》",
     "《论语》/Pasted image 20240520133054.png",
-    "《论语》/为政篇第二.md",
-    "README.md",
-    "《传习录》/《传习录上》/徐爱录/《传习录上·徐爱录一》.md",
     "《论语》/学而篇第一",
     "《论语》",
-    "大学/第十章 释“治国、平天下”.md",
-    "《大学》/《大学·经文》.md",
-    "《大学》/《大学·传文·第四章 释“本末”》.md",
     "《大学》",
     "中国哲学图.png",
     "《传习录》/《传习录下》",
     "《传习录》/《传习录中》",
-    "《传习录》/《传习录上》",
-    "《传习录》/传习录附录",
-    "《传习录》/《传习录下》/黄以方录",
-    "《传习录》/《传习录下》/钱德洪录",
-    "《传习录》/《传习录下》/黄省曾录",
     "中国哲学图1.png",
     "Library/睡眠革命/Sleep.png",
     "Library/Procrastination/Procrastination 1.png",
