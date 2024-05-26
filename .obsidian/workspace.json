@@ -8,72 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3e3e39705544cc91",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "《诗经》/桧风/桧风.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "10868d04bc98e85a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "《诗经》/桧风/羔裘.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6b3c7b9c50a34d37",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "《诗经》/桧风/素冠.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6e9351c28e57f6ec",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "《诗经》/桧风/隰有苌楚.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "fdf96fd5034709f3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "《诗经》/桧风/桧风.md",
+                "file": "《中庸》/《中庸》第一章.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -140,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "《诗经》/桧风/桧风.md",
+                "file": "《中庸》/《中庸》第一章.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "《诗经》/桧风/桧风.md",
+                "file": "《中庸》/《中庸》第一章.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "《诗经》/桧风/桧风.md"
+                "file": "《中庸》/《中庸》第一章.md"
               }
             }
           }
@@ -216,44 +163,44 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "1ba2d4acf1634ae3",
+  "active": "fdf96fd5034709f3",
   "lastOpenFiles": [
-    "《诗经》/桧风/匪风.md",
-    "《诗经》/桧风/隰有苌楚.md",
-    "《诗经》/桧风/素冠.md",
-    "《诗经》/桧风/羔裘.md",
-    "《诗经》/桧风/桧风.md",
-    "《诗经》/陈风/泽陂.md",
-    "《诗经》/桧风",
-    "《诗经》/陈风/陈风.md",
-    "《诗经》/陈风/株林.md",
-    "《诗经》/陈风/月出.md",
-    "《诗经》/陈风/防有鹊巢.md",
-    "《诗经》/陈风/墓门.md",
-    "《诗经》/陈风/东门之杨.md",
-    "《诗经》/陈风/东门之池.md",
-    "《诗经》/陈风/衡门.md",
-    "《诗经》/陈风/东门之枌.md",
-    "《诗经》/陈风/宛丘.md",
-    "《诗经》/陈风",
-    "《诗经》/秦风/秦风.md",
-    "《诗经》/秦风/权舆.md",
-    "《诗经》/秦风/渭阳.md",
-    "《诗经》/秦风/无衣.md",
-    "《诗经》/秦风/晨风.md",
-    "《诗经》/秦风/黄鸟.md",
-    "《诗经》/秦风/终南.md",
-    "《诗经》/秦风/蒹葭.md",
-    "《诗经》/秦风/车邻.md",
-    "《诗经》/秦风/小戎.md",
-    "《诗经》/秦风",
-    "《诗经》/唐风",
-    "《诗经》/魏风",
-    "《诗经》/齐风",
-    "《诗经》/郑风",
-    "《诗经》/王风",
-    "《诗经》/卫风",
-    "《诗经》/鄘风",
+    "《诗经》/国风/卫风/硕人.md",
+    "《诗经》/国风/卫风/芄兰.md",
+    "《诗经》/国风/卫风/考槃.md",
+    "《诗经》/国风/卫风/竹竿.md",
+    "《诗经》/国风/卫风/淇奥.md",
+    "《诗经》/国风/卫风/伯兮.md",
+    "《诗经》/国风/卫风/河广.md",
+    "《诗经》/国风/卫风/氓.md",
+    "《诗经》/国风/卫风/木瓜.md",
+    "《诗经》/国风/卫风/有狐.md",
+    "《诗经》/国风/卫风/卫风.md",
+    "《诗经》/国风/卫风",
+    "《诗经》/国风/王风/黍离.md",
+    "《诗经》/国风/王风/采葛.md",
+    "《诗经》/国风/王风/葛藟.md",
+    "《诗经》/国风/王风/王风.md",
+    "《诗经》/国风/王风/扬之水.md",
+    "《诗经》/国风/王风/大车.md",
+    "《诗经》/国风/王风/君子阳阳.md",
+    "《诗经》/国风/王风/君子于役.md",
+    "《诗经》/国风/王风/兔爰.md",
+    "《诗经》/国风/王风/中谷有蓷.md",
+    "《诗经》/国风/王风/丘中有麻.md",
+    "《诗经》/国风/王风",
+    "《诗经》/国风/唐风/鸨羽.md",
+    "《诗经》/国风/唐风/采苓.md",
+    "《诗经》/国风/唐风/蟋蟀.md",
+    "《诗经》/国风/唐风/葛生.md",
+    "《诗经》/国风/唐风",
+    "《诗经》/国风/秦风",
+    "《诗经》/国风/齐风",
+    "《诗经》/国风/周南",
+    "《诗经》/国风/郑风",
+    "《诗经》/国风/召南",
+    "《诗经》/国风/鄘风",
+    "《诗经》/国风/魏风",
     "《论语》/Pasted image 20240520133054.png",
     "中国哲学图.png",
     "中国哲学图1.png",
