@@ -4,63 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "f71a8dbc5c6501db",
+        "id": "3f0e446287a7e017",
         "type": "tabs",
         "children": [
           {
-            "id": "0cd41c05275eb409",
+            "id": "e1f54f35a97f2d52",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "《诗经》/斯干.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b43dc3fcf9f953f3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "《诗经》/无羊.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c36388a673b5f18b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "《诗经》/节南山.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d158fec37fc4d948",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "《诗经》/正月.md",
+                "file": "《诗经》/大雅/文王有声.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -127,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "《诗经》/正月.md",
+                "file": "《诗经》/大雅/文王有声.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "《诗经》/正月.md",
+                "file": "《诗经》/大雅/文王有声.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "《诗经》/正月.md"
+                "file": "《诗经》/大雅/文王有声.md"
               }
             }
           }
@@ -188,7 +148,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -203,34 +164,36 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "d158fec37fc4d948",
+  "active": "1ba2d4acf1634ae3",
   "lastOpenFiles": [
-    "《诗经》/节南山.md",
-    "《诗经》/正月.md",
-    "《诗经》/无羊.md",
-    "《诗经》/斯干.md",
-    "《诗经》/我行其野.md",
-    "《诗经》/皇皇者华.md",
-    "《诗经》/黄鸟.md",
-    "《诗经》/白驹.md",
-    "《诗经》/国风/邶风/二子乘舟.md",
-    "《诗经》/祈父.md",
-    "《诗经》/鹤鸣.md",
-    "《诗经》/沔水.md",
-    "《诗经》/庭燎.md",
-    "《诗经》/鸿雁.md",
-    "《诗经》/吉日.md",
-    "《诗经》/车攻.md",
-    "《诗经》/采芑.md",
-    "《诗经》/六月.md",
-    "《诗经》/菁菁者莪.md",
-    "《诗经》/彤弓.md",
-    "《诗经》/湛露.md",
-    "《诗经》/蓼萧.md",
-    "《诗经》/由仪.md",
-    "《诗经》/崇丘.md",
-    "《诗经》/由庚.md",
-    "《诗经》/南山有臺.md",
+    "《金刚经》",
+    "《诗经》/大雅/灵台.md",
+    "《诗经》/大雅/下武.md",
+    "《诗经》/大雅/文王有声.md",
+    "《诗经》/大雅/皇矣.md",
+    "《诗经》/小雅/白华.md",
+    "《诗经》/小雅/隰桑.md",
+    "《诗经》/大雅/旱麓.md",
+    "《诗经》/大雅/思齐.md",
+    "《诗经》/大雅/棫朴.md",
+    "《诗经》/大雅/绵.md",
+    "《诗经》/大雅/大明.md",
+    "《诗经》/大雅/文王.md",
+    "《诗经》/小雅/小雅.md",
+    "^20.md",
+    "《诗经》/大雅/大雅.md",
+    "《诗经》/小雅/雅.md",
+    "《诗经》/大雅",
+    "《诗经》/小雅/何草不黄.md",
+    "《诗经》/小雅",
+    "《诗经》/小雅/苕之华.md",
+    "《诗经》/小雅/渐渐之石.md",
+    "《诗经》/小雅/瓠叶.md",
+    "《诗经》/小雅/绵蛮.md",
+    "《诗经》/绵蛮1.md",
+    "《诗经》/小雅/黍苗.md",
+    "《诗经》/小雅/采绿.md",
+    "《诗经》/小雅/都人士.md",
     "《诗经》/国风/卫风",
     "《诗经》/国风/王风",
     "《诗经》/国风/唐风",
@@ -239,8 +202,6 @@
     "《诗经》/国风/周南",
     "《诗经》/国风/郑风",
     "《诗经》/国风/召南",
-    "《诗经》/国风/鄘风",
-    "《诗经》/国风/魏风",
     "《论语》/Pasted image 20240520133054.png",
     "中国哲学图.png",
     "中国哲学图1.png",

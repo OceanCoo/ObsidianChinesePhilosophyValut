@@ -28,7 +28,7 @@
       "openFile": true,
       "openFileInMode": "source",
       "fileExistsMode": "Increment the file name",
-      "setFileExistsBehavior": false
+      "setFileExistsBehavior": true
     }
   ],
   "macros": [],
